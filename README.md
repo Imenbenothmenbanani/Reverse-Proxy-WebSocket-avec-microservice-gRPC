@@ -72,11 +72,3 @@ Le proxy WebSocket écoute sur `ws://localhost:8081`.
 4. Poussez votre branche : `git push origin feature/ma-fonctionnalite`
 5. Créez une Pull Request 🔥
 
-## 📜 Licence
-
-Ce projet est sous licence **MIT**.
-
----
-
-👨‍💻 **Développé par Imen BEN OTHMEN BANANI**
-
